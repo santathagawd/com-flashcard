@@ -1,0 +1,523 @@
+TCP - Transmissional Control Prototcol
+
+UDP - User Datagram Protocol
+
+DNS - Dynamic Network Services
+
+MDNS - Multicast Dynamic Network Services
+
+3 Way TCP Handshake - A connection between a server and client
+
+RIU - Rest In Undoxiablity
+
+Dox - Derives from Google Docs It is a Docs of somebodys personal information which can inclued address name phone number etc
+
+IRC - Inernet Relay Chat its a protocal for real time messaging between internet connections
+
+IP - Internet Protocol
+
+The 7 Layers Of OSI - Application, Presentation, Session, Transport, Network, Data Link and Physical
+
+The 7 Layers Of OSI Broken Down - Application Is The End User Layer, Presentation Is The Syntax Layer, Session Is To Synch & Send To Port, Transport Is End To End Connections, Network Is Packets, Data Link Is Frames, Physical Is Physical Structure
+
+The 7 Layers Of OSI Broken Down Into Protocols - Application HTTP FTP IRC SSH DNS, Presentation SSI SSH IMAP FTP MPEG JPEG, Session API's Sockets WinSock, Transport TCP UDP, Network IP ICMP IPSec IGMP, Data Link Ethernet PPP Switch Bridge, Physical Coax Fiber Wireless Hubs Repeaters
+
+HTTP - Hyper Text Transfer Protocol
+
+FTP - File Transfer Protocol
+
+SSH - Secure Shell
+
+SSI - Subject Says It
+
+IMAP - Internet Message Access Protocol
+ 
+MPEG - Moving Picture Experts Group
+
+JPEG - Joint Photographic Experts Group
+
+API - Application Program Interface
+
+WinSock - Windows Socket
+
+ICMP - Internet Control Message Protocol
+
+IPSec - Internet Protocol Security
+
+IGMP - Internet Group Manegment Protocol
+
+DDos - Distributed Denial Of Service
+
+VPS - Virtual Private Server
+
+OVH - Online Virtual Hosting
+
+VPN - Virtual Private Network
+
+NFO - Nuclear Fallout Enterprises
+
+Dedi - Dedication/Dedicated
+
+LAN - Local Area Network a group of connected computers located in a single geographic area usually a building or office that share data and services
+
+WAN - Wide Area Network a data communications network that serves users across a broad geographic area
+
+MAN - Metropolitan Area Network a network that spans a defined geographic location such as a city or suburb
+
+PAN - Personal Area Network a network layout whereby devices work together in close proximity to share information and services commonly using technologies such as Bluetooth or infrared
+
+Peer To Peer Networking - A network environment where communication occurs between similarly capable network nodes that act as both clients and servers
+
+Port - Communication Endpoint
+
+Ping - The time it takes for a small data set to be transmitted from your device to a server on the internet and back to your device again the ping time is measured in milliseconds
+
+Cookies - Cookies are text files with small pieces of data like a username and password that are used to identify your computer as you use a computer network specific cookies known as HTTP cookies are used to identify specific users and improve your web browsing experience
+
+Bandwidth - A range of frequencies within a given band, in particular that used for transmitting a signal
+
+XUID - Is a URL-safe compressed UUID
+
+URL - The address of a World Wide Web page
+
+UUID - Universally unique identifier
+
+Spoof - Masking your original ip and changing it to a diffrent one
+
+Honeypot - A honeypot is a computer or computer system intended to mimic likely targets of cyberattacks. It can be used to detect attacks or deflect them from a legitimate target
+
+NIC - A network interface controller NIC also known as a network interface card its a computer hardware component that connects a computer to a computer network
+
+WPA3 -  Wi-Fi Protected Access 3, is the third iteration of a security certification program developed by the Wi-Fi Alliance
+
+Trojan - Trojan is a type of malware that is often disguised as legitimate software trojans can be employed by cyber-thieves and hackers trying to gain access to users system users are typically tricked by some form of social engineering into loading and executing Trojans on their systems
+
+Malware -  Any software intentionally designed to cause damage to a computer, server, client, or computer network
+
+Ransomware - Malicious software that infects your computer and displays messages demanding a fee to be paid in order for your system to work again
+
+Firewall - A firewall is a security device computer hardware or software that can help protect your network by filtering traffic and blocking outsiders from gaining unauthorized access to the private data on your computer
+
+Ip Table: - Userspace utility program that allows a system administrator to configure the IP packet filter rules of the Linux kernel firewall implemented as different Netfilter modules the filters are organized in different tables which contain chains of rules for how to treat network traffic packets
+
+Flashcard - Questions about Networking Programming Coding etc
+
+Skid - A script kiddie somebody who uses other peoples scripts
+
+LDAP - The Lightweight Directory Access Protocol is an open vendor neutral industry standard application protocol for accessing and maintaining distributed directory information services over an Internet Protocol network
+
+adware - software that automatically displays or downloads advertising material often unwanted when a user is online
+
+VoIP - Voice over Internet Protocol VoIP is a technology that allows you to make voice calls using a broadband Internet connection instead of a regular or analog phone line
+
+Intranet - A local or restricted communications network especially a private network created using World Wide Web software
+
+Subnet - A logical subdivision of an IP network the practice of dividing a network into two or more networks is called subnetting computers that belong to a subnet are addressed with an identical most significant bit group in their IP addresses
+
+Proxy - A proxy server acts as a gateway between you and the internet its an intermediary server separating end users from the websites they browse
+
+BOOTP - The Bootstrap Protocol is a computer networking protocol used in Internet Protocol networks to automatically assign an IP address to network devices from a configuration server the BOOTP was originally defined in RFC 951 BOOTP operates only on IPv4 networks
+
+DHCP - Dynamic Host Configuration Protocol  is a network management protocol used to automate the process of configuring devices on IP networks thus allowing them to use network services such as DNS NTP and any communication protocol based on UDP or TCP
+
+Routing Protocol - Specifies how routers communicate with each other to distribute information that enables them to select routes between any two nodes on a computer network
+
+IPX & SPX - IPX/SPX stands for Internetwork Packet Exchange/Sequenced Packet Exchange IPX and SPX are networking protocols used initially on networks using the Novell NetWare operating systems but became widely used on networks deploying Microsoft Windows LANS as they replaced NetWare LANS
+
+Gateway - gateway is a node in a computer network a key stopping point for data on its way to or from other networks in a workplace the gateway is the computer that routes traffic from a workstation to the outside network that is serving up the Webpage stands for network address translation its a way to map multiple local private addresses to a public one before transferring the information organizations that want multiple devices to employ a single IP address use NAT as do most home routers
+
+Nat - NAT stands for network address translation its a way to map multiple local private addresses to a public one before transferring the information organizations that want multiple devices to employ a single IP address use NAT as do most home routers
+
+Hexstring - The hexstring is a string of hexadecimal characters if the result cannot be expressed as a whole number an error results that is the result must not have more digits than the current setting of numbers
+
+Network Interface - In computing a network interface is a software or hardware interface between two pieces of equipment or protocol layers in a computer network A network interface will usually have some form of network address this may consist of a node identifier and a port number or may be a unique node ID in its own right
+
+Local host -  is a hostname that refers to the current computer used to access it is used to access the network services that are running on the host via the loopback network interface
+
+Mac Address - The MAC address short for media access control address is the worldwide unique hardware address of a single network adapter the physical address is used to identify a device in computer networks with Microsoft Windows the MAC address is referred to as the physical address
+
+Fraggle Attack - A Fraggle Attack is a denial of service attack that involves sending a large amount of spoofed UDP traffic to a router's broadcast address within a network it is very similar to a Smurf Attack which uses spoofed ICMP traffic rather than UDP traffic to achieve the same goal
+
+NTP Amplification - NTP amplification is a type of Distributed Denial of Service attack in which the attacker exploits publically accessible Network Time Protocol servers to overwhelm the targeted with User Datagram Protocol traffic yhe NTP server responds by sending the list to the spoofed IP address
+
+APDoS - A distributed denial of service attack may involve sending forged requests of some type to a very large number of computers that will reply to the requests using Internet Protocol address spoofing the source address is set to that of the targeted victim which means all the replies will go to  the target.
+
+SYN - SYN is short Synchronize and is the first step in establishing communication between two systems over the TCP/IP protocol When a server receives a SYN request it responds with a SYN-ACK message
+
+ACK - In data networking telecommunications and computer buses an acknowledgement is a signal that is passed between communicating processes computers or devices to signify acknowledgement or receipt of message as part of a communications protocol
+
+Port Foward - In computer networking port forwarding or port mapping is an application of network address translation that redirects a communication request from one address and port number combination to another while the packets are traversing a network gateway such as a router or firewall
+
+Geoblocking - Geoblocking is the system used to limit your access to the internet based on your geographic location
+
+Obfuscation - Obfuscation is the practice of making something difficult to understand programming code is often obfuscated to protect intellectual property and prevent an attacker from reverse engineering a proprietary software program
+
+Split-tunneling - Split tunneling is a computer networking concept which allows a user to access dissimilar security domains like a public network and a local LAN or WAN at the same time using the same or different network connections
+
+ISP FIXED LINE- can be seen as a connection to an end customer, by means of a cable, through which a user can make phone calls or connect to the Internet.
+
+DOX- Search for and publish private or identifying information about (a particular individual) on the Internet, typically with malicious intent.
+
+DNS RESOLVER-  DNS Resolver is the first stop in the DNS lookup, and it is responsible for dealing with the client that made the initial request. The resolver starts the sequence ...
+
+RLOGIN- Remote Login a tool for remotely using a computer over a network. It could be used to get a command-line on a remote computer. - Port 513
+
+SERIAL- a number showing the position of an item in a series, especially one printed on paper currency or on a manufactured article for the purposes of identification. - Serial Line "COM1" - Speed: 9600
+
+TCP 3-WAY HANDSHAKE- is a process which is used in a TCP/IP network to make a connection between the server and client.
+
+SPOOF- Trick or Hoax.
+
+NIGGER- a contemptuous term for a black or dark-skinned person.
+
+API- Application Programming Interface.
+
+STATIC IP- Never Changes.
+
+DYNAMIC IP- Changes everytime you restart your router.
+
+DDOS-  Distributed denial of service.
+
+OVH- Online Virutal Hosting.
+
+DHCP- Dynamic Host Configuration Protocol.
+
+TCP- Transmission Control Protocol.
+
+UDP- User Datagram Protocol.
+
+VPS- Virtual Private Server.
+
+VPN- Virtual Private Network.
+
+NFO- Nuclear Fallout.
+
+IPO- Initial Public Offering.
+
+IP- Internet Protocal.
+
+IPV4- Internet Protocal Version 4.
+
+IPV6- Internet Protocal Version 6.
+
+Kali Linux- is designed for digital forensics and penetration testing
+
+TCP- Transmission Control Protocol
+
+TCP Flags- a TCP packet transfer to indicate a particular connection state or provide additional information.
+
+SKID- script kiddie. 
+
+HTTP- Hypertext Transfer Protocol
+
+HTTPS- Hypertext Transfer Protocol Secure
+
+DNS- domain name system
+
+TELNET- A Network specific protocol that lets you use one computer to log into another computer that is part of the same internet. - Port: 23
+
+SSH- Secure Shell - Port: 22
+
+SMTP- Simple Mail Transfer Protocol
+
+MSN- MicroSoft Network
+
+LDAP- Lightweight Directory Access Protocol
+
+NETBIOS- Network Basic Input or Output System
+
+IMAP4- Internet Message Access Protocol 4
+
+SFTP- SSH File Transfer Protocol
+
+KERBEROS- A Computer-network authentication protocol that works on the basis of tickets to allow nodes communicating over a non-secure network to prove their identity to one another in a secure manner.
+
+BOTNET- A botnet is a number of Internet connected devices, that can be used to perform a DDoS attack.
+
+PERL SCRIPT- is a family of script programming languages.
+
+SCRIPT- is a list of commands that are executed by a program or scripting engine.
+
+How many coding languages are there?: 700 coding languages.
+
+What is python?: Coding languages.
+
+What are the first two sentences in python: Activate_this = "/home/username/virtualenv/application/x.y/bin/activate_this.py" iw open(activate_this) as f:
+
+What is Acute?: Refers to the condition that is the pimary reason forthe current encounter.
+		  	   
+ICD-9?: International Classifications of Diseases, 9th revision.
+		   		   
+ICD-10?: International Clasifications of Diseases, 10th revision.
+		   
+What is a TCP SYN flood attack?: A SYN flood is where the IP address isn’t satirized.
+
+What is the definition of RBRV?: Resource-based relative value scale.
+		   
+What the definition GPCI?: geographic practice cost index.
+
+What is the definition of CF?: conversation factor.
+		  		  
+What were botnets made for?: Mining Bitcoin.
+
+What is the difference of a OVH and NFO: OVH's are more protective and NFO's are made more for connection. 
+
+How to bypass a Spoof: If someone has a open nat type you can pull their home connection off a Arp Spoofer to bypass a Spoofed home connection Hydra, NFO, OVH.
+
+How to bypass xbox console companion retart user- All you need to do is just use something like Lanc. PCPS or any ip puller that allows Arp Spoofing.
+
+IS WATER WET- No, Water isn't wet by itself, but it makes other materials wet when it sticks to the surface of them.
+
+ISP FIXED LINE- can be seen as a connection to an end customer, by means of a cable, through which a user can make phone calls or connect to the Internet.
+
+DOX- Search for and publish private or identifying information about (a particular individual) on the Internet, typically with malicious intent.
+
+DNS RESOLVER-  DNS Resolver is the first stop in the DNS lookup, and it is responsible for dealing with the client that made the initial request. The resolver starts the sequence ...
+
+RLOGIN- Remote Login a tool for remotely using a computer over a network. It could be used to get a command-line on a remote computer. - Port 513
+
+SERIAL- a number showing the position of an item in a series, especially one printed on paper currency or on a manufactured article for the purposes of identification. - Serial Line "COM1" - Speed- 9600
+
+TCP 3-WAY HANDSHAKE- is a process which is used in a TCP/IP network to make a connection between the server and client.
+
+SPOOF- Trick or Hoax.
+
+NIGGER- a contemptuous term for a black or dark-skinned person.
+
+API- Application Programming Interface.
+
+STATIC IP- Never Changes.
+
+DYNAMIC IP- Changes everytime you restart your router.
+
+DDOS-  Distributed denial of service.
+
+OVH- Online Virutal Hosting.
+
+DHCP- Dynamic Host Configuration Protocol.
+
+TCP- Transmission Control Protocol.
+
+UDP- User Datagram Protocol.
+
+VPS- Virtual Private Server.
+
+VPN- Virtual Private Network.
+
+NFO- Nuclear Fallout.
+
+IPO- Initial Public Offering.
+
+SSI- Subject Says It
+
+IP- Internet Protocal.
+
+IPSEC- Internet Protocol Security
+
+IGMP- Internet Group Manegment Protocol
+
+IPV4- Internet Protocal Version 4.
+
+IPV6- Internet Protocal Version 6.
+
+KALI LINUX- is designed for digital forensics and penetration testing.
+
+TCP- Transmission Control Protocol
+
+TCP Flags- a TCP packet transfer to indicate a particular connection state or provide additional information.
+
+SKID- script kiddie.
+
+MDNS- Multicast Dynamic Network Services 
+
+HTTP- Hypertext Transfer Protocol
+
+HTTPS- Hypertext Transfer Protocol Secure
+
+DNS- domain name system
+
+PORT- Communication Endpoint
+
+PING- The time it takes for a small data set to be transmitted from your device to a server on the internet and back to your device again the ping time is measured in milliseconds
+
+XUID- Is a URL-safe compressed UUID
+
+UUID- Universally unique identifier
+
+URL- The address of a World Wide Web page
+
+TELNET- A Network specific protocol that lets you use one computer to log into another computer that is part of the same internet. - Port- 23
+
+SSH- Secure Shell - Port- 22
+
+DSTAT- is a powerful, flexible and versatile tool for generating Linux system resource statistics, that is a replacement for all the tools mentioned above.
+
+SMTP- Simple Mail Transfer Protocol.
+
+MPEG- Moving Picture Experts Group
+
+JPEG- Joint Photographic Experts Group
+
+MSN- Microsoft Network.
+
+LDAP- Lightweight Directory Access Protocol.
+
+LAN- Local Area Network a group of connected computers located in a single geographic area usually a building or office that share data and services.
+
+WAN- Wide Area Network a data communications network that serves users across a broad geographic area.
+
+MAN- Metropolitan Area Network a network that spans a defined geographic location such as a city or suburb.
+
+PAN- Personal Area Network a network layout whereby devices work together in close proximity to share information and services commonly using technologies such as Bluetooth or infrared.
+
+PEER TO PEER NETWORKING- A network environment where communication occurs between similarly capable network nodes that act as both clients and servers.
+
+WINSOCK- Windows Socket.
+
+NETBIOS- Network Basic Input or Output System.
+
+IRC- Inernet Relay Chat its a protocal for real time messaging between internet connections.
+
+IMAP4- Internet Message Access Protocol 4.
+
+SFTP- SSH File Transfer Protocol.
+
+FTP - File Transfer Protocol
+
+KERBEROS- A Computer-network authentication protocol that works on the basis of tickets to allow nodes communicating over a non-secure network to prove their identity to one another in a secure manner.
+
+BOTNET- A botnet is a number of Internet connected devices, that can be used to perform a DDoS attack.
+
+COOKIES- Cookies are text files with small pieces of data like a username and password that are used to identify your computer as you use a computer network specific cookies known as HTTP cookies are used to identify specific users and improve your web browsing experience
+
+BANDWIDTH- A range of frequencies within a given band, in particular that used for transmitting a signal
+
+PERL SCRIPT- is a family of script programming languages.
+
+SCRIPT- is a list of commands that are executed by a program or scripting engine.
+
+SUBNETS- A logical subdivision of an IP network the practice of dividing a network into two or more networks is called subnetting computers that belong to a subnet are addressed with an identical most significant bit group in their IP addresses
+
+CROSS SITE REQUEST FORGERY- This attack involves using compromised user identities to post unauthorized data, modify firewall settings, or even make unauthorized financial transactions all without the knowledge of the compromised website user.(This one's a tricky one and I had to get some help to fully understand it.)
+
+ACE EXPLOIT ATTACKS- ACE is the ability to excute arbitrary codes on a target. A arbitrary code execution vuln is a security vuln in a software or network just allowing arbitrary code to be executed. But a ACE exploit attack is different a ACE attack is to be able to excute arbitrary code executions over networkins like I think WAN's and LAN's.
+
+RCE EXPLOIT ATTACKS- So to break down RCE exploit attacks (Remote code execution) the simplest way I could is by saying that are these infected programs that are design to exploit/abuse vuln's. The process of exploitating a vulns is called an arbitrary code execetion exploit.And these sort of attack's have to abiltity to activate the ACE over a WAN network is often called a RCE exploit attack. :)
+
+CACHE POISONING ATTACKS- These types of attacks can be very deadly and are more often called DNS spoofed because that's what you are doing you are spoofing the dns to trick the system into thinking it's the right address when it's really not.
+
+ARP CACHE POISOONING- ARP cache poisoning is like DNS spoofing but this time the attacker is sending false ARP messages of a LAN network type I believe (correct me in my discord if I am wrong) to the link the attacker's I believe MAC address with legitimate computer's or like a server on their network.
+
+SHELLCODE- The Shellcode is the piece of a payload that is used in the exploitation of a vuln in a server software and network etc.
+
+GLOBAL RATE LIMITING- Rate limiting a port for certain requests is where basically when you set up a request or packet threashold and once that threshold is reached the server drops.
+
+FIREWALL- A firewall is a security device computer hardware or software that can help protect your network by filtering traffic and blocking imcoming and outgoing traffic 
+
+BINARY EXPLOITS- Memory Corruption. (These are GOOD FOR FUCKING SHIT UP LIKE COMPLETELY FUCKING SHIT UP.)
+
+BUFFER OVERFLOW ATTACKS- Ok before I can explain the exploit attack let's talk about what buffers are in the first place. So buffers are area's of memory that hold big dick data. So like for example like when a program for instance accepts user input to later operate on a big dick block of memory that would be set aside I guess to store that users inputs.
+Ok so now that we know what buffers are let's explain the attack. So a buffer overflow attack is when a program writes data to a buffer liek normal but that data takes up more space then told or allocated (in big boy terms)to do so then it overwrites adjacent memory locations.
+And there are only really 2 types of buffer overflows and those are Heap and Stack overflows and I will explain both the best I can.
+
+HEAP OVERFLOW ATTACKS- This is just memory corruption located on the heap. And just general variables and other normal program data are affected. (This is pretty simple)
+
+STACK OVERFLOW ATTACKS- As I said in the Heap Overflow attack definition this is just memory corruption located on the stack this means instead of global variables like in Heap overflow attacks local variables and just regular function arg's would be affected in this attack/  
+
+DEVICE EXPLOITATION- As we will state in the next definition device exploitation are just abusing the devices vulnerbilities hence making them easier to infect and use all while having big dick power.
+
+0DAYS- 0Day's are vulnerbilities in a software that can therefore be abused/exploited and they typically are made in 0day's hence the name 0day) 
+
+N-DAYS- N-Day's are like a more public version of 0day's these vulnerbilities have be already patched by the Device or Network is what supposed to be exploited against.(They are also known as 1Day's)
+
+SQL INJECTING- This type of attack involves hackers injecting your own bad and infected sql code into a Web form input box. This can allow them access to unauthorized data and can even allow them to perform unauthorized actions within the sites database.This is basically using SQL's own sytax against itself.
+
+WILDCARD INJECTIONS- There are 2 main types of wildcard injections and that is a just a regular wildcard injection which is when an attackers create files after these things called command flags and then they can therefore manipulate other users commands. And when privileged users runs wildcard commands hackers or attackers and inject certain malicious flags into their commands and commence unwanted consquences.
+For example an attack can like excute arbitrary system commands as the root user if they inject a specific command flag.
+(This one is hard to explain because I don't fully understand it and I had to get help from some friends on this one)
+
+IP TABLE- Userspace utility program that allows a system administrator to configure the IP packet filter rules of the Linux kernel firewall implemented as different Netfilter modules the filters are organized in different tables which contain chains of rules for how to treat network traffic packets
+
+LINUX KERNEL EPOLL- Epoll is a Linux kernel system call for a I/O event notification mechanism.And Its function is to monitor multiple file descriptors to see if I/O is possible on any of them. It is meant to replace the older POSIX select and poll system calls, to achieve better performance in more demanding applications, where the number of watched file descriptors is large (unlike the older system calls, which operate in no time) epoll operates in no time
+
+FIN- Short for Finish and it's purpose is to terminate a connection.
+
+RST- Short for Reset and it's used to as the name says resets connection's.
+
+PSH- Short for Push and it's sole purpose is to inform the receiving host that the data should be pused to the application ASAP basically.
+
+URG- Short for Urgent and just like PSH is to notify the receiver to basically speed up from where it is as and to send the info straight away without examining anything else.
+
+RAT's- Short for Remote access trojan's are like the name states are things that are trying to get remote access to your system.To make a RAT you need to set a reverse TCP socket and shell also a TCP listen and once someone has connected to this you have to port forward/tcp tunnel this connection therefore giving you access to well... everything on this person's system.
+
+Arm's Arch- Arms is a arch that loads things like jaws and dvr which are bascially chinese router's and such(DVR is better because it's newer and pulls more and better bots than jaws)
+
+MIP's Arch- MIP's arch just basically loads SSH and I think some telnet devices and such. 
+
+MIPSEL's Arch- This arch just basically just ipcam's. 
+
+x86 Arch- x86 which is short x86 assembly and this is a CPU arch that loads anything with cpu.
+
+HONEYPOTS- Honeypots are something you want to pay attention to when scanning and loading devices these are fake devices that are mean't to report your bins for infecting devices without permission.
+
+RIU- Rest In Undoxablity.
+
+XCC- Xbox Console Companion.
+		  	   
+ICD-9?- International Classifications of Diseases, 9th revision.
+		   		   
+ICD-10?- International Clasifications of Diseases, 10th revision.
+		   
+WHAT IS A TCP SYN FLOOD ATTACK?- A SYN flood is where the IP address isn’t satirized.
+
+WHAT IS THE DEFINITION OF RBRV?- Resource-based relative value scale.
+		   
+WHAT IS THE DEFINITION OF GPCI?- geographic practice cost index.
+
+WHAT IS THE DEFINITION OF CF?- conversation factor.
+		  		  
+WHAT ARE BOTNETS MADE FOR?- Mining Bitcoin.
+
+WHAT IS THE DIFFERENCE OF AN OVH and NFO- OVH's are more protective and NFO's are made more for connection. 
+
+HOW TO BYPASS A SPOOF- If someone has a open nat type you can pull their home connection off a Arp Spoofer to bypass a Spoofed home connection Hydra, NFO, OVH.
+
+HOW TO BYPASS SOMEONE SITTING ON XCC- All you need to do is just use something like Lanc. PCPS or any ip puller that allows Arp Spoofing.
+
+THE 7 LAYERS OF OSI- Application, Presentation, Session, Transport, Network, Data Link and Physical
+
+The 7 Layers Of OSI BROKEN DOWN- Application Is The End User Layer, Presentation Is The Syntax Layer, Session Is To Synch & Send To Port,
+Transport Is End To End Connections, Network Is Packets, Data Link Is Frames, Physical Is Physical Structure
+
+The 7 Layers Of OSI BROKEN DOWN INTO PROTOCOLS- Application HTTP FTP IRC SSH DNS, Presentation SSI SSH IMAP FTP MPEG JPEG,
+Session API's Sockets WinSock, Transport TCP UDP, Network IP ICMP IPSec IGMP, Data Link Ethernet PPP Switch Bridge, Physical Coax Fiber Wireless Hubs Repeaters
+
+X.25- is an ITU-T standard protocol suite for packet-switched data communication in wide area networks.
+
+X86- is a family of instruction set architectures initially developed by Intel based on the Intel 8086 microprocessor and its 8088 variant.
+
+
+
+WHAT CODE IS USED TO MAKE A DISTRIBUTION FILE?- "python setup.py sdist ­­formats=gztar"
+
+WILL THE FOLLOWING CODE REPRODUCE A ERROR?- "show_version() def show_version(): print 'Version 1.0a'"
+
+LIST COMPREHENSION CODING- "[expr(x) for x in iterable]"
+
+A.KEYS- is a copy of a's list of keys.
+
+WHAT IS A SAMPLE OF TEST DRIVE PYTHON CODING- "(member_specs_test.py) for our (mini­) application:"
+
+HOW MANY CODING LANGUAGES ARE THERE IN PYTHON?- 700 coding languages.
+
+WHAT IS PYTHON?- Coding languages.
+
+WHAT ARE THE FIRST TWO SENTANCES OF PYTHON- Activate_this = "/home/username/virtualenv/application/x.y/bin/activate_this.py" iw open(activate_this) as f-
+
+WHAT IS ACUTE?- Refers to the condition that is the pimary reason forthe current encounter.
+
+
+
+
+
+
